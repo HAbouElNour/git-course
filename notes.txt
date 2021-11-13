@@ -1,0 +1,36 @@
+# git-course
+for el zero web school git course
+======================================================
+#################eposide 2 ####################333
+#words you will hear
+-repository (repo)
+store where you put your code
+
+-branch
+
+-local  repo
+my PC
+-remote repo
+(githup, or any other )
+
+-commit (snapshot or checkpoint in your local point)
+
+-clone (from local repo or remote repo)
+
+-push (upload to remote repo)
+
+-Pull (you pull changes from remote repo to local repo)
+
+-Pull request (tell other about changes to pull it from loacal to remote)
+
+--------------------------------------
+#important notes
+-create repo for each project
+-create a new branch for every feature or enhancement
+-no need to connect to remote repo wen working
+-any one can push and pull depend on permissions
+
+
+
+
+##project notes
